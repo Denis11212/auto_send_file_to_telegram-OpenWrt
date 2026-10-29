@@ -4,8 +4,9 @@
 rm install_auto_send_file_to_telegram.sh
 ```
 Приятного пользования!
-# Инструкция
-Для устновки достаточно скачать [install_auto_send_file_to_telegram.sh](https://github.com/Denis11212/auto_send_file_to_telegram/raw/refs/heads/main/install_auto_send_file_to_telegram.sh), затем дать права файлу на запуск, ну и выполнить скрипт установки. Устновочный скрипт сам всё сделает.
+
+# Инструкция по работе через UCI
+Если использовать веб-интерфейс не нравится, то для для устновки достаточно скачать [install_auto_send_file_to_telegram.sh](https://github.com/Denis11212/auto_send_file_to_telegram/raw/refs/heads/main/install_auto_send_file_to_telegram.sh), затем дать права файлу на запуск, ну и выполнить скрипт установки. Устновочный скрипт сам всё сделает.
 Например, так:
 ```Shell
 curl -L -O "https://github.com/Denis11212/auto_send_file_to_telegram/raw/refs/heads/main/install_auto_send_file_to_telegram.sh"
